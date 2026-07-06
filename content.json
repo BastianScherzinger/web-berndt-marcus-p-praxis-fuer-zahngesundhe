@@ -110,5 +110,9 @@
     "Langjährige Erfahrung in Montabaur",
     "Schnelle Terminvergabe bei Notfällen"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
